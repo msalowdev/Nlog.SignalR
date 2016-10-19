@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nlog.SignalR", "Nlog.SignalR\Nlog.SignalR.csproj", "{3BADCF66-74E4-4FF1-AB56-5BC45BB20434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp", "SampleApp\SampleApp.csproj", "{481BF641-CF81-499B-838A-7C08341AFB86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BADCF66-74E4-4FF1-AB56-5BC45BB20434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BADCF66-74E4-4FF1-AB56-5BC45BB20434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BADCF66-74E4-4FF1-AB56-5BC45BB20434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BADCF66-74E4-4FF1-AB56-5BC45BB20434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{481BF641-CF81-499B-838A-7C08341AFB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481BF641-CF81-499B-838A-7C08341AFB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481BF641-CF81-499B-838A-7C08341AFB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481BF641-CF81-499B-838A-7C08341AFB86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://badgerstudio.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Nlog.SignalR\\Nlog.SignalR.csproj
+		SccProjectName1 = Nlog.SignalR
+		SccLocalPath1 = Nlog.SignalR
+		SccProjectUniqueName2 = SampleApp\\SampleApp.csproj
+		SccProjectName2 = SampleApp
+		SccLocalPath2 = SampleApp
+	EndGlobalSection
+EndGlobal
